@@ -8,3 +8,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
 ```
+
+- [x] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
